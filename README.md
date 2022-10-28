@@ -1,2 +1,1 @@
-# autodestruccion
-clase 13
+# ExplotarGlobos2-plantilla
